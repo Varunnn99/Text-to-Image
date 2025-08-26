@@ -13,10 +13,6 @@ A modern web application that generates stunning visual art from text descriptio
 ### Pricing Page
 ![Pricing](pricing_page.png)
 
-### Sample Generated Images
-![Sample Image 1](client/src/assets/sample_img_1.png)
-![Sample Image 2](client/src/assets/sample_img_2.png)
-
 ## 🚀 Features
 
 - **AI-Powered Image Generation**: Convert text descriptions into beautiful images
